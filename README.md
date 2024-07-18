@@ -1,4 +1,4 @@
-- Bonjour I'm @theWangster
+- Bonjour I'm @mrkingseasheep
 - Currently (attempting) to learn Rust
 - Mildly incompetent in Python and Java
 - Horribly bad at front end lmao
