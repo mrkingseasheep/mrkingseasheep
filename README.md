@@ -1,5 +1,12 @@
-- Bonjour I'm @mrkingseasheep
-- Currently (attempting) to learn Rust
-- Mildly incompetent in C++
-- Incompetent in Python and Java
-- Horribly bad at front end lmao
+# Whois Xinyang Wang
+- Current student at Alexander Mackenzie high school
+- Aspiring developer
+- Grade 12, class of 2025 🎊
+
+## Languages and stuff (in order of decreasing competency)
+- C++
+- Java
+- Python
+- HTML/CSS
+- Lua
+- French (not really)
