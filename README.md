@@ -10,3 +10,5 @@
 - HTML/CSS
 - Lua
 - French (not really)
+- Chinese
+- LANG=en_US.UTF-8
