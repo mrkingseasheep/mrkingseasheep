@@ -1,4 +1,4 @@
-# Whois Xinyang Wang
+# whois Xinyang Wang
 - Current student at Alexander Mackenzie high school
 - Aspiring developer
 - Grade 12, class of 2025 🎊
